@@ -1,0 +1,7 @@
+logs
+.git
+Dockerfile
+.venv
+__pycache__
+*.pyc
+venv
